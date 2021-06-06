@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622986848 source:e:\ads\task3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<queue>
+

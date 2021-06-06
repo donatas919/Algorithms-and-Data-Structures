@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582226354 source:d:\code\binary search\main.cpp
+	<iostream>
+	<fstream>
+
+1582296671 source:d:\code\2020\binary search\main.cpp
+	<iostream>
+	<fstream>
+
